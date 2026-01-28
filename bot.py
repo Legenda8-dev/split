@@ -21,7 +21,7 @@ def start_message(message):
 def show_subscriptions(message):
     keyboard = types.InlineKeyboardMarkup()
     subscriptions = [
-        {"name": "Basic 15", "url": "https://pay.ya.ru/t/Zr3OLU"},
+        {"name": "Basic 20", "url": "https://pay.ya.ru/t/Zr3OLU"},
         {"name": "Basic 12 + 1 месяц в подарок", "url": "https://pay.ya.ru/t/YLBOjy"},
         {"name": "Basic 9 + 90 дней заморозки", "url": "https://pay.ya.ru/t/8TTUDO"},
         {"name": "Basic 7 + 1 месяц в подарок", "url": "https://pay.ya.ru/t/YoSFhl"},
