@@ -27,12 +27,12 @@ def show_subscriptions(chat_id):
     keyboard = types.InlineKeyboardMarkup()
 
     subscriptions = [
-        ("Basic 20", "https://pay.ya.ru/t/Zr3OLU"),
-        ("Basic 12 + 1 месяц в подарок", "https://pay.ya.ru/t/YLBOjy"),
-        ("Basic 9 + 90 дней заморозки", "https://pay.ya.ru/t/8TTUDO"),
-        ("Basic 7 + 1 месяц в подарок", "https://pay.ya.ru/t/YoSFhl"),
-        ("Basic 6", "https://pay.ya.ru/t/ZjWeqk"),
-        ("Basic 3", "https://pay.ya.ru/t/Zzh81U"),
+        ("Basic 12", "https://pay.ya.ru/t/R9865A"),
+        ("Basic 12 + массаж", "https://pay.ya.ru/t/6ljGvg"),
+        ("Basic 6 + массаж", "https://pay.ya.ru/t/Qhdhkb"),
+        ("Basic 6", "https://pay.ya.ru/t/UGm4wg"),
+        ("Basic 4", "https://pay.ya.ru/t/cOMWkJ"),
+        ("Basic 3", "https://pay.ya.ru/t/8fY37I"),
         ("Блок тренировок к Тренеру", "https://pay.ya.ru/t/h0xbkS"),
         ("Блок тренировок СПЛИТ (2 человека)", "https://pay.ya.ru/t/xlkYbD"),
     ]
