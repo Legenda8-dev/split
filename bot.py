@@ -30,7 +30,7 @@ def show_subscriptions(chat_id):
         ("Basic 12 + 1 месяц в подарок", "https://pay.ya.ru/t/tkRJE5"),
         ("Basic 6", "https://pay.ya.ru/t/g1xfH6"),
         ("Basic 4", "https://pay.ya.ru/t/gKXScB"),
-        ("Basic 3", "https://pay.ya.ru/t/ZbCVDO"),
+        ("Basic 3", "https://pay.ya.ru/t/Z4EFr5"),
         ("Блок тренировок к Тренеру", "https://pay.ya.ru/t/h0xbkS"),
         ("Блок тренировок СПЛИТ (2 человека)", "https://pay.ya.ru/t/xlkYbD"),
     ]
